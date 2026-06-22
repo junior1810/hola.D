@@ -1,10 +1,12 @@
-
 <!DOCTYPE html>
 <html lang="es">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>¿Quieres ser mi novia? 💕</title>
+  <title>Hola 👋</title>
+  <meta property="og:title" content="Hola 👋" />
+  <meta property="og:description" content="Te mando algo..." />
+  <meta property="og:image" content="" />
   <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600;700&family=Lato:wght@300;400&display=swap" rel="stylesheet" />
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -339,5 +341,3 @@ function reset() {
 </body>
 </html>
 ```
-
-Guárdalo como un archivo `.html` y ábrelo en cualquier navegador. ¡Suerte! 🌹
